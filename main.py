@@ -1,1 +1,1 @@
-print('Hello from ops')
+print('Hello')
